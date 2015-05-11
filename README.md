@@ -4,9 +4,9 @@ homebrew-yat.sh
 How do I install `yat.sh`?
 --------------------------
 
-Just `brew tap farfanoide/yat.sh` and then `brew install yat.sh`. If the
+Just `brew tap farfanoide/yatsh` and then `brew install yatsh`. If the
 formula conflicts with one from mxcl/master or another tap, you can `brew
-install farfanoide/yat.sh/yat.sh`.
+install farfanoide/yatsh/yatsh`.
 
 You can also install via URL:
 
