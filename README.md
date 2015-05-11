@@ -1,7 +1,7 @@
 homebrew-yat.sh
 ===============
 
-How do I install `yat.sh`?
+How do I install yat.sh?
 --------------------------
 
 Just `brew tap farfanoide/yatsh` and then `brew install yatsh`. If the
@@ -11,7 +11,7 @@ install farfanoide/yatsh/yatsh`.
 You can also install via URL:
 
 ```
-brew install https://raw.github.com/farfanoide/homebrew-yat.sh/master/yat_sh.rb
+brew install https://raw.github.com/farfanoide/homebrew-yatsh/master/yatsh.rb
 ```
 
 Docs
