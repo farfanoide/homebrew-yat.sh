@@ -1,6 +1,6 @@
 require "formula"
 
-class YatSh < Formula
+class Yatsh < Formula
   homepage "https://github.com/farfanoide/yat.sh"
   head "https://github.com/farfanoide/yat.sh.git"
 
