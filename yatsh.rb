@@ -5,7 +5,7 @@ class Yatsh < Formula
   head "https://github.com/farfanoide/yat.sh.git"
 
   url "https://github.com/farfanoide/yat.sh/archive/0.3.0.tar.gz"
-  sha1 "94c1651a5e31f606ef0294fb50b1546700aaf170"
+  sha256 "224d84227e7122250e12ae803a28a71e824cb5dc8404cbcb625b1e8587ff296d"
 
   depends_on "tmux" => :build
 
